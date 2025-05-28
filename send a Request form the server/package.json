@@ -1,0 +1,19 @@
+{
+  "name": "debug_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_ Bind_method.js",
+  "scripts": {
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kris1729/DeBug_JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kris1729/DeBug_JavaScript/issues"
+  },
+  "homepage": "https://github.com/kris1729/DeBug_JavaScript#readme"
+}
